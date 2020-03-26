@@ -1,0 +1,8 @@
+,source_ID,version,label,vaccine_treatment,start_date,end_date,phase,numPhase,timing,durationMonths,durationMillis,dateUpdated
+0,1.0,TBD,mRNA-1273 (Actual),mRNA-1273,1/11/2020,2/7/2020,Discovery/ Lead Development,1,Actual,N/A,2332800000.0,03/26/2020
+1,1.0,TBD,mRNA-1273 (Actual),mRNA-1273,2/7/2020,3/4/2020,Clinical Batch,2,Actual,N/A,2246400000.0,03/26/2020
+2,1.0,TBD,mRNA-1273 (Actual),mRNA-1273,3/4/2020,3/16/2020,IND or Equivalent,3,Actual,N/A,1036800000.0,03/26/2020
+3,1.0,TBD,mRNA-1273 (Actual),mRNA-1273,3/16/2020,TBD,Phase 1 ,4,Actual,N/A,TBD,03/26/2020
+4,19.0,TBD,INO-4700 (Actual),INO-4700,1/10/2020,TBD,Discovery/ Lead Development,1,Actual,N/A,TBD,03/26/2020
+5,32.0,TBD,Kevzara (Actual),Kevzara,Ongoing; started: 03/16/2020,Ongoing; started: 03/16/2020,Phase 2,5,Actual,N/A,TBD,03/26/2020
+6,32.0,TBD,Kevzara (Actual),Kevzara,Ongoing; started: 03/16/2020,TBD,Phase 3,6,Actual,N/A,TBD,03/26/2020
